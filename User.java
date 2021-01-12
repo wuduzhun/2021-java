@@ -16,6 +16,8 @@ import javax.persistence.Id;
 @AllArgsConstructor
 @NoArgsConstructor
 public class User {
+      
+    //设置主键@Id和设置主键
 
     @Id
     @GeneratedValue
